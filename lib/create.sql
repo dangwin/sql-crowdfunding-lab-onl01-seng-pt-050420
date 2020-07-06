@@ -6,3 +6,4 @@ CREATE TABLE projects (
   start_date DATE,
   end_date DATE
 );
+
